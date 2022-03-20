@@ -1,0 +1,12 @@
+deep-translator
+moviepy
+nltk
+sumy
+IPython
+noisereduce
+soundfile
+google.cloud
+google-cloud-speech
+pafy
+json
+ibm-watson
